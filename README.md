@@ -1,8 +1,8 @@
 # Mabi's Here! Welcome 💌
 
 ## Who's Mabi? 🐢
-### ◾Student of Systems Development
-### ◾Currently working on Game Development
+#### ◾Student of Systems Development
+#### ◾Currently working on Game Development
 
 ## 🔗Contact
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=#D30445)](mailto:fernandeslopes16@hotmail.com)
