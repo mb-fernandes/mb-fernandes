@@ -1,3 +1,3 @@
-## Mabi's here! Welcome 💌
+# Mabi's here! Welcome 💌
 
-# Who's Mabi? 🐢
+## Who's Mabi? 🐢
